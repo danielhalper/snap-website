@@ -1,0 +1,48 @@
+h1 { 
+color: blue;
+}
+
+body {
+    background: rgb(34, 34, 34);
+}
+
+#google {
+display: block;
+margin-left:auto;
+margin-right:auto;
+margin-top:20%;
+width: 300px;
+
+}
+
+input {
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+background: rgba(0,0,0,0);
+width: 600px;
+border-radius: 30px;
+height: 45px;
+border-color: white;
+border-width: 1px;
+}
+
+.buttons {
+    
+    display: flex;
+    justify-content: center;
+    ;
+}
+.button {
+    
+    margin: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    ;
+}
